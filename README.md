@@ -1,5 +1,7 @@
 # js-connect4
 
+# Need to add mobile capability
+
 WEBPAGE
 
 https://kjwilliamson.github.io/js-connect4/
