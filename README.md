@@ -11,4 +11,5 @@
 https://connect4-js.netlify.app/
 
 
-![connect4](https://user-images.githubusercontent.com/24884380/161319842-e7719fd8-a1a3-443c-a4df-cf36ba0efaa0.jpeg)
+
+![connect4](https://user-images.githubusercontent.com/24884380/195201337-883fc969-0a13-4ec5-8a51-a7aa331b76b5.jpg)
