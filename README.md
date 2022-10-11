@@ -1,10 +1,11 @@
-# js-connect4
+# Connect4 built with HTML, CSS, and Javascript.
 
-# Need to add mobile capability
+## Rules of Connect4
+* Players must connect 4 of the same colored discs in a row to win.
+* Only one piece is played at a time
+* The game ends when there is a 4-in-a-row or a stalemate
 
-WEBPAGE
-
-https://kjwilliamson.github.io/js-connect4/
+### Need to add mobile capability
 
 
 https://connect4-js.netlify.app/
